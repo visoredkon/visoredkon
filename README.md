@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**visoredkon/visoredkon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/visoredkon">
+    <img src="https://github-readme-stats.vercel.app/api?username=visoredkon&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  </a>
+  <br />
+  <br />
+  <a href="https://instagram.com/pahril_15">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+  <br />
+  <br />
+  <a href="https://github.com/visoredkon">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=visoredkon&theme=dracula" alt="GitHub Streak" />
+  </a>
+</p>
