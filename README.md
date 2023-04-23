@@ -37,8 +37,8 @@ Alright, fellow ninja comrades, get ready to power up your skills and showcase y
     <img height="28" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white"/>
     <br>
     <img height="28" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white"/>
+    <img height="28" alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
     <img height="28" alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&amp;logo=nodemon&amp;logoColor=%BBDEAD"/>
-    <br>
     <img height="28" alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white"/>
     <img height="28" alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white"/>
     <br>
