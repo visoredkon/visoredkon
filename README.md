@@ -53,8 +53,9 @@ Alright, fellow ninja comrades, get ready to power up your skills and showcase y
 </br>
 </br>
 
-<img hight="320" width="345" alt="GIF" align="left" src="https://media.tenor.com/xFJ8bY3yGZkAAAAC/funny.gif">
-<p align="right">
+
+<p align="center">
+    <img hight="195" width="345" alt="GIF" src="https://media.tenor.com/xFJ8bY3yGZkAAAAC/funny.gif">
     <a href="https://github.com/visoredkon">
         <img src="https://github-readme-stats.vercel.app/api?username=visoredkon&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" />
     </a>
