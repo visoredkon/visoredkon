@@ -59,6 +59,4 @@ Alright, fellow ninja comrades, get ready to power up your skills and showcase y
     </a> -->
 </p>
 
-</br>
-
 *************
