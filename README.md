@@ -46,13 +46,10 @@ Alright, fellow ninja comrades, get ready to power up your skills and showcase y
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white" alt="VSCode" />
 </div>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
     <img hight="195" width="345" alt="GIF" src="https://media.tenor.com/xFJ8bY3yGZkAAAAC/funny.gif">
