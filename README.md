@@ -25,7 +25,7 @@ You can reach me through my Instagram account:
 <br>
 
 # Languages and tools 🧑‍💻
-<img hight="320" width="450" alt="GIF" align="right" src="https://media.tenor.com/GbhGoVjFBHMAAAAC/kanna-kamui-kanna.gif">
+<img hight="320" width="450" alt="GIF" align="left" src="https://media.tenor.com/GbhGoVjFBHMAAAAC/kanna-kamui-kanna.gif">
 
 Alright, fellow ninja comrades, get ready to power up your skills and showcase your ninja potential with the help of my top-notch languages and tools. Without further ado, let me introduce you to my formidable ninja tools:
 
