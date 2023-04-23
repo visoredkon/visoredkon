@@ -4,7 +4,6 @@
 </div>
 
 <br>
-<br>
 
 # About me 💬
 Konnichiwa! My name is Pahril, a technology enthusiast who's also into philosophy. I'm 18 years old and currently learning how to code while pondering about life's mysteries. As a beginner, I'm exploring different programming languages, tools, and frameworks to see which ones spark joy. So far, I'm enjoying learning DevOps and some languages, and I hope to contribute to many projects in the future. In my spare time, I like to read or watch about philosophy and contemplate the meaning of existence. I find it fascinating to explore different schools of thought and see how they shape our perceptions of the world. Although I'm not yet a philosopher or an experienced programmer, I'm excited to learn and grow in these fields. I'm pumped to level up my programming skills. Let's team up and swap jutsus of knowledge! Dattebayo!
@@ -54,7 +53,7 @@ Alright, fellow ninja comrades, get ready to power up your skills and showcase y
 </br>
 </br>
 
-<img hight="320" width="450" alt="GIF" align="left" src="https://media.tenor.com/xFJ8bY3yGZkAAAAC/funny.gif">
+<img hight="320" width="400" alt="GIF" align="left" src="https://media.tenor.com/xFJ8bY3yGZkAAAAC/funny.gif">
 <p align="right">
     <a href="https://github.com/visoredkon">
         <img src="https://github-readme-stats.vercel.app/api?username=visoredkon&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" />
