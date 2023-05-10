@@ -59,4 +59,6 @@ Alright, fellow ninja comrades, get ready to power up your skills and showcase y
     </a> -->
 </p>
 
+![](https://komarev.com/ghpvc/?username=visoredkon&label=Profile+views+since+May+10,+2023)
+
 *************
