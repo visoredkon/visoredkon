@@ -31,30 +31,27 @@
 <br>
 
 # Languages and tools 🧑‍💻
-<img hight="320" width="450" alt="GIF" align="right" src="https://media.tenor.com/GbhGoVjFBHMAAAAC/kanna-kamui-kanna.gif">
-
-<br>
-<br>
+<!-- <img hight="320" width="450" alt="GIF" align="right" src="https://media.tenor.com/GbhGoVjFBHMAAAAC/kanna-kamui-kanna.gif"> -->
 
 <div align="center">
+    Languages and tools that I use:
+    <br>
     <br>
     <img height="28" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white"/>
     <img height="28" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E"/>
     <img height="28" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=blue"/>
     <img height="28" alt="LUA" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&amp;logo=lua&amp;logoColor=white"/>
     <img height="28" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white"/>
+    <br>
     <img height="28" alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white"/>
     <img height="28" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white"/>
     <img height="28" alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white"/>
 </div>
 
 <br>
-<br>
-<br>
-<br>
 
 # Github Stats 📊
-<p align="left">
+<p align="center">
     <a href="https://github.com/visoredkon">
         <img src="https://github-readme-stats.vercel.app/api?username=visoredkon&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" />
     </a>
