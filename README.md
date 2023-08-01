@@ -1,7 +1,7 @@
 ```js
 let aboutMe = {
   Name        : 'Pahril',
-  Discord     : 'Pahril#1042',
+  Discord     : 'pahril',
   Learning    : ['Java', 'Javascript', 'Python', 'LUA', 'NodeJS', 'WebDev'],
   Excitement  : 'Code, DevOps, and everything related to technology'
 }
