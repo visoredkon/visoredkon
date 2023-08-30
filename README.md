@@ -1,15 +1,15 @@
-```fish
+```sh
 ~/visoredkon
 > fetch
 ```
 
 <img align="left" src="https://github.com/visoredkon.png" width="207" />
 
-```bash
+```bat
                                     USER: pahril@github
             ┌─────────────────────────────────────────────────────────────────┐
    ​           Name: Pahril
- ​             Discord: pahril
+ ​             Discord: @pahril
  ​             Learning: LUA, Javascript, Python, Java, WebDev
    ​           Excitement: Code, DevOps, and everything related to technology
             └─────────────────────────────────────────────────────────────────┘
