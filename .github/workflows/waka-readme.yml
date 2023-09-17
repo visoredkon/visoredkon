@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
 
 jobs:
   update-readme:
@@ -12,8 +12,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-            SHOW_TIME: true
+            BLOCKS: ░▒▓█
             SHOW_TOTAL: true
             TIME_RANGE: all_time
-            BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
