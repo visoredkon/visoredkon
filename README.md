@@ -6,13 +6,13 @@
 <img align="left" src="https://github.com/visoredkon.png" width="352" />
 
 ```bat
-                            USER: pahril@github
-    ┌────────────────────────────────────────────────────────────────┐
-      Name: Pahril
-      Discord: @pahril
-      Learning: LUA, Javascript, Python, Java, WebDev
-      Excitement: Code, DevOps, and everything related to technology
-    └────────────────────────────────────────────────────────────────┘
+                        USER: pahril@github
+┌────────────────────────────────────────────────────────────────┐
+  Name: Pahril
+  Discord: @pahril
+  Learning: LUA, Javascript, Python, Java, WebDev
+  Excitement: Code, DevOps, and everything related to technology
+└────────────────────────────────────────────────────────────────┘
 ```
 -------
 
