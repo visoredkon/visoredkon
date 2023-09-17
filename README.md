@@ -3,7 +3,7 @@
 > fetch
 ```
 
-<img align="left" src="https://github.com/visoredkon.png" width="207" />
+<img align="left" src="https://github.com/visoredkon.png" width="352" />
 
 ```bat
                                 USER: pahril@github
