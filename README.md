@@ -19,10 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 31 mins   ###############----------   60.46 %
-JavaScript   2 hrs 10 mins   #########----------------   37.23 %
-Other        4 mins          -------------------------   01.39 %
-JSON         3 mins          -------------------------   00.92 %
+TypeScript   4 hrs 54 mins   ################---------   64.32 %
+JavaScript   2 hrs 12 mins   #######------------------   29.01 %
+JSON         25 mins         #------------------------   05.59 %
+Other        4 mins          -------------------------   01.08 %
 ```
 
 <!--END_SECTION:waka-->
