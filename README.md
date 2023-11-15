@@ -19,10 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 18 mins   ############-------------   46.15 %
-JavaScript   2 hrs 12 mins   ###########--------------   44.12 %
-JSON         25 mins         ##-----------------------   08.53 %
-Other        3 mins          -------------------------   01.20 %
+TypeScript   3 hrs 33 mins   #############------------   50.76 %
+JavaScript   2 hrs 28 mins   #########----------------   35.21 %
+JSON         27 mins         ##-----------------------   06.44 %
+properties   13 mins         #------------------------   03.10 %
+Kotlin       7 mins          -------------------------   01.84 %
 ```
 
 <!--END_SECTION:waka-->
