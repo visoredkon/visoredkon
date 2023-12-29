@@ -19,11 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            1 hr 37 mins    ####################-----   80.26 %
-JavaScript        12 mins         ###----------------------   10.21 %
-Git Config        6 mins          #------------------------   05.24 %
-TypeScript        2 mins          #------------------------   02.13 %
-Other             1 min           -------------------------   00.86 %
+JavaScript   12 mins         #########################   98.23 %
+Kotlin       0 secs          -------------------------   01.77 %
 ```
 
 <!--END_SECTION:waka-->
