@@ -19,11 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 52 mins   #######################--   90.60 %
-JSON         22 mins         ##-----------------------   08.75 %
-Kotlin       1 min           -------------------------   00.44 %
-Markdown     0 secs          -------------------------   00.19 %
-Other        0 secs          -------------------------   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
