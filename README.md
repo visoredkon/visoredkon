@@ -19,9 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   16 mins         ###############----------   58.35 %
-SQL          11 mins         ##########---------------   40.03 %
-Other        0 secs          -------------------------   01.63 %
+TypeScript   8 mins          #########################   100.00 %
 ```
 
 <!--END_SECTION:waka-->
