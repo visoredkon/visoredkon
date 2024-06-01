@@ -19,7 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   6 mins          #########################   100.00 %
+Other                         2 hrs           ########################-   96.95 %
+Entity Relationship Diagram   2 mins          #------------------------   02.16 %
+Text                          1 min           -------------------------   00.86 %
+Image (svg)                   0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
