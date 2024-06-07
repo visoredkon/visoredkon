@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                         5 hrs 32 mins   #####################----   83.88 %
-JavaScript                    30 mins         ##-----------------------   07.65 %
-Python                        29 mins         ##-----------------------   07.50 %
-Entity Relationship Diagram   2 mins          -------------------------   00.68 %
-Text                          1 min           -------------------------   00.27 %
+Other                         5 hrs 35 mins   ####################-----   79.80 %
+JavaScript                    30 mins         ##-----------------------   07.27 %
+Python                        29 mins         ##-----------------------   07.07 %
+Markdown                      20 mins         #------------------------   04.95 %
+Entity Relationship Diagram   2 mins          -------------------------   00.64 %
 ```
 
 <!--END_SECTION:waka-->
