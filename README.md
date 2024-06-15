@@ -19,9 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text    23 mins         ############-------------   49.42 %
-Other   23 mins         ############-------------   49.09 %
-INI     0 secs          -------------------------   01.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
