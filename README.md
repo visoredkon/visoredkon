@@ -31,5 +31,5 @@ TSConfig     8 mins          -------------------------   01.18 %
 -------
 
 ![](https://komarev.com/ghpvc/?username=visoredkon&label=Profile+views+since+May+10,+2023)
-
+[![wakatime](https://wakatime.com/badge/user/278a26e7-b681-4754-bc4a-49c10c3fdef6.svg)](https://wakatime.com/@278a26e7-b681-4754-bc4a-49c10c3fdef6)
 *************
