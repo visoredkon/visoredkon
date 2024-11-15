@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 5 hrs 29 mins   ###########--------------   44.07 %
-YAML                       1 hr 46 mins    ####---------------------   14.17 %
-Nginx configuration file   1 hr 27 mins    ###----------------------   11.74 %
-Other                      1 hr 16 mins    ###----------------------   10.22 %
-Python                     53 mins         ##-----------------------   07.12 %
+TypeScript                 5 hrs 31 mins   #########----------------   37.66 %
+YAML                       3 hrs 17 mins   ######-------------------   22.46 %
+Nginx configuration file   1 hr 28 mins    ###----------------------   10.01 %
+Other                      1 hr 16 mins    ##-----------------------   08.74 %
+Docker                     56 mins         ##-----------------------   06.39 %
 ```
 
 <!--END_SECTION:waka-->
