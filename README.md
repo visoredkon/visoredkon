@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              20 hrs 1 min    ################---------   62.82 %
-Blade Template   8 hrs 49 mins   #######------------------   27.69 %
-GDScript3        1 hr 12 mins    #------------------------   03.80 %
-TypeScript       45 mins         #------------------------   02.40 %
-Markdown         22 mins         -------------------------   01.15 %
+PHP              23 hrs 24 mins  #################--------   69.60 %
+Blade Template   6 hrs 31 mins   #####--------------------   19.40 %
+TypeScript       1 hr 20 mins    #------------------------   04.01 %
+GDScript3        1 hr 12 mins    #------------------------   03.60 %
+Markdown         22 mins         -------------------------   01.09 %
 ```
 
 <!--END_SECTION:waka-->
