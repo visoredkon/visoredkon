@@ -10,7 +10,6 @@
 ┌───────────────────────────────────────────────────────────┐
   Name: Pahril
   Discord: @pahril
-  Learning: LUA, Javascript, Python, Java, WebDev
   Excitement: Code and everything related to technology
 └───────────────────────────────────────────────────────────┘
 ```
