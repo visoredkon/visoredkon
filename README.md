@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                    343 hrs 51 mins #######------------------   26.33 %
+TypeScript                    343 hrs 51 mins #######------------------   26.32 %
 PHP                           328 hrs 7 mins  ######-------------------   25.12 %
 Python                        95 hrs 40 mins  ##-----------------------   07.32 %
 JavaScript                    71 hrs 19 mins  #------------------------   05.46 %
