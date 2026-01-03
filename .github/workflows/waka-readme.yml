@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "@monthly"
+    - cron: "0 0 1 * *"
   push:
     branches:
       - main
