@@ -14,6 +14,11 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-            BLOCKS: -#
-            TIME_RANGE: all_time
-            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BLOCKS: -#
+          TIME_RANGE: all_time
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          AUTHOR_NAME: ${{ github.actor }}
+          AUTHOR_EMAIL: ${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com
+          COMMITTER_NAME: github-actions[bot]
+          COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
