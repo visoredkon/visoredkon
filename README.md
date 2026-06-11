@@ -13,22 +13,26 @@
   Excitement: Code and everything related to technology
 └───────────────────────────────────────────────────────────┘
 ```
--------
+
+---
 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                    349 hrs 32 mins       #####--------------------   21.87 %
-PHP                           328 hrs 40 mins       #####--------------------   20.57 %
-Nix                           141 hrs 11 mins       ##-----------------------   08.84 %
-Python                        107 hrs 25 mins       ##-----------------------   06.72 %
-Other                         81 hrs 34 mins        #------------------------   05.10 %
+From: 10 September 2023 - To: 11 June 2026
+
+TypeScript                    350 hrs 18 mins       #####--------------------   21.50 %
+PHP                           328 hrs 40 mins       #####--------------------   20.17 %
+Nix                           143 hrs 48 mins       ##-----------------------   08.83 %
+Python                        107 hrs 53 mins       ##-----------------------   06.62 %
+Other                         82 hrs 44 mins        #------------------------   05.08 %
 ```
 
 <!--END_SECTION:waka-->
 
--------
+---
 
 ![](https://komarev.com/ghpvc/?username=visoredkon&label=Profile+views+since+May+10,+2023)
 [![wakatime](https://wakatime.com/badge/user/278a26e7-b681-4754-bc4a-49c10c3fdef6.svg)](https://wakatime.com/@278a26e7-b681-4754-bc4a-49c10c3fdef6)
-*************
+
+---
