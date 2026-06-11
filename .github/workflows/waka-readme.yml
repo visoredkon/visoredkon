@@ -10,7 +10,7 @@ on:
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
-    runs-on: ubuntu-slim
+    runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
