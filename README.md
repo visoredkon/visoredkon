@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2023 - To: 30 June 2026
+From: 10 September 2023 - To: 31 July 2026
 
-TypeScript                    351 hrs 17 mins       #####--------------------   21.24 %
-PHP                           328 hrs 40 mins       #####--------------------   19.87 %
-Nix                           146 hrs 34 mins       ##-----------------------   08.86 %
-Python                        110 hrs 21 mins       ##-----------------------   06.67 %
-Other                         84 hrs 3 mins         #------------------------   05.08 %
+TypeScript                    351 hrs 17 mins       #####--------------------   21.03 %
+PHP                           328 hrs 40 mins       #####--------------------   19.68 %
+Nix                           154 hrs 28 mins       ##-----------------------   09.25 %
+Python                        113 hrs 5 mins        ##-----------------------   06.77 %
+Markdown                      84 hrs 2 mins         #------------------------   05.03 %
 ```
 
 <!--END_SECTION:waka-->
